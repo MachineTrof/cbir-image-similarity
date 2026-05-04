@@ -1,0 +1,2 @@
+﻿model_name,image_size,batch_size,similarity,normalize,P@1,P@10,R@10,HitRate@10,mAP
+resnet18_extractor.pth,224,32,euclidean,False,0.74025,0.698,0.006986986986986987,0.97625,0.4657656418481018

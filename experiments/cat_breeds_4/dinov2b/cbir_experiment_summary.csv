@@ -1,0 +1,2 @@
+﻿model_name,image_size,batch_size,similarity,normalize,P@1,P@10,R@10,HitRate@10,mAP
+DINOv2-B/14 — facebook/dinov2-base,recommended,32,cosine,True,0.826,0.8031,0.008039039039039037,0.976,0.6991221229799162

@@ -1,0 +1,2 @@
+﻿model_name,image_size,batch_size,similarity,normalize,P@1,P@10,R@10,HitRate@10,mAP
+ViT-B/16 — google/vit-base-patch16-224-in21k,recommended,32,euclidean,False,0.76825,0.7202750000000001,0.007209959959959959,0.97625,0.5101866425142824

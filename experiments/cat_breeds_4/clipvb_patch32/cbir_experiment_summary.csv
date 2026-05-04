@@ -1,0 +1,2 @@
+﻿model_name,image_size,batch_size,similarity,normalize,P@1,P@10,R@10,HitRate@10,mAP
+CLIP ViT-B/32 — openai/clip-vit-base-patch32,recommended,32,cosine,True,0.73,0.672225,0.006728978978978979,0.98225,0.41208329779759595

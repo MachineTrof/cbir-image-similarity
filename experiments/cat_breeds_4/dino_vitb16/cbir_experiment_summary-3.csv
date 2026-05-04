@@ -1,0 +1,2 @@
+﻿model_name,image_size,batch_size,similarity,normalize,P@1,P@10,R@10,HitRate@10,mAP
+DINO ViT-B/16 — facebook/dino-vitb16,recommended,32,euclidean,False,0.79875,0.769,0.007697697697697697,0.9745,0.58597226716912
