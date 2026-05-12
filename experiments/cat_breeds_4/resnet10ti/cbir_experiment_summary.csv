@@ -1,0 +1,2 @@
+﻿model_name,image_size,batch_size,similarity,normalize,P@1,P@10,R@10,HitRate@10,mAP
+resnet10ti_extractor.pth,128,32,cosine,True,0.589,0.52925,0.0052977977977977965,0.96125,0.356684054978925
